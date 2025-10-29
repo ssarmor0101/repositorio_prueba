@@ -1,7 +1,7 @@
 import Order from "./Order";
 
 function Footer() {
-  console.log("movidas dev2");
+  console.log("movidas dev2 footer");
   const openHour = "10";
   const closeHour = "19";
   const currentHour = new Date().getHours();
